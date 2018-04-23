@@ -1,0 +1,5 @@
+name "dotnetcore"
+description "D bindings to DotNet Core"
+authors "Laeeth Isharc"
+copyright "Copyright © 2018, Laeeth Isharc"
+license "proprietary"
